@@ -1,4 +1,4 @@
-### Hi, my name is Aleksandar Kurtakov, I am working on a good number of Eclipse IDE and Java tooling projects. 
+Aleksandar Kurtakov - versative Eclipse IDE projects developer. 
 
 <br>
 
