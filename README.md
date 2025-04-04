@@ -1,4 +1,6 @@
-Aleksandar Kurtakov - versative Eclipse IDE projects developer. 
+Aleksandar Kurtakov - versatile Eclipse IDE projects developer. 
+
+Leading Eclipse Project Management Committee, Eclipse Platform project and being one of the main developers in many different Eclipse IDE projects and plugins. See [the list](https://accounts.eclipse.org/users/akurtakov#tab-projects)
 
 <br>
 
